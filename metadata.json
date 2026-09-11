@@ -1,0 +1,6 @@
+{
+  "name": "Legalsynopsis Automated Governing Setup",
+  "description": "A comprehensive automated setup and governing platform designed for deep compatibility and system visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
